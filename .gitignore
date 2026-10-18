@@ -1,0 +1,3 @@
+# passwords for basic auth, created on the server
+nginx/auth/*
+!nginx/auth/.gitkeep
